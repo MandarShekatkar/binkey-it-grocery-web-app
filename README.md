@@ -20,4 +20,4 @@ A full-stack grocery delivery web application built using the MERN stack with se
 /server – Node.js & Express backend
 
 ## Note
-This project is built for learning and demonstration purposes.
+This project is built for learning and demonstration purposes
