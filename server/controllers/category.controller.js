@@ -4,7 +4,7 @@ import ProductModel from '../models/product.model.js';
 
 
 export const AddCategoryController = async (request,response)=>{
-        try {
+        try { 
             const{name, image} =request.body
             if(!name || !image){
                 return response.status(400).json({
